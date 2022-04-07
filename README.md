@@ -8,7 +8,7 @@ like a custom type in Typescript
 
 ## interface
 
-Like a custom type that gives methods given for a particular type.
+Like a custom type that gives methods given for a particular type. They describe the behavior that our custom types can execute.
 
 ## Pointers
 
