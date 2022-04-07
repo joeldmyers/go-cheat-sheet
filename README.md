@@ -4,7 +4,7 @@ Notes
 
 ## struct
 
-like a custom type in Typescript
+like a custom object type in Typescript
 
 ## interface
 
