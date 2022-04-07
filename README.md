@@ -6,6 +6,10 @@ Notes
 
 like a custom type in Typescript
 
+## interface
+
+Like a custom type that gives methods given for a particular type.
+
 ## Pointers
 
 Pointer type stores location of a variable.
