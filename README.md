@@ -14,6 +14,10 @@ Pointer type stores location of a variable.
 func main() {
   var name string
   var namePointer *string
+  
+  name = "Johnny"
+  namePointer = &name
+  nameValue = &namePointer
 }
 ```
 
