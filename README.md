@@ -15,6 +15,7 @@ func main() {
   var name string
   var namePointer *string
 }
+```
 
 & in front of variable name means that we want to pull the pointer address from an actual value. * in front of variable name means we want to "dereference" or get the actual value of a pointer.
 
